@@ -2,6 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=alimehr75)
 
+Working as a DevOps Engineer and interested in its Techs, Tools.
+
+Also interested in LSE (Linux System Engineer), SRE (Site Reliability Engineer).
+
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=alimehr75&include_all_commits=true&theme=merko) -->
   <img src="https://github-readme-stats.vercel.app/api?username=alimehr75&show_icons=true&theme=dark"/>
 
@@ -13,6 +17,23 @@
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:a.mehraji75@gmail.com)
 
 </br>
+
+## Core Competencies and Skills
+
+### DevOps Skills:
+
+* Bash - Python
+* Ansible 
+* Docker - DockerCompose
+* Git - Gitlab CI/CD
+
+### Front-End Skills:
+
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
+
+
+
+
 
 ### Back-End Skills:
 
