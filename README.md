@@ -26,6 +26,9 @@ Also interested in LSE (Linux System Engineer), SRE (Site Reliability Engineer).
 * Ansible 
 * Docker - DockerCompose
 * Git - Gitlab CI/CD
+* Nginx
+* Sentry
+* Zabbix
 
 ### Front-End Skills:
 
