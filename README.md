@@ -59,10 +59,12 @@ Articles go here:
 ### IDEs
 
 - [![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)](https://code.visualstudio.com/)
+- [![PyCharm](https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
 
 ### Editors
 
 - [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](https://www.vim.org/)
+- [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](https://notepad-plus-plus.org/)
 
 ### Databases
 
