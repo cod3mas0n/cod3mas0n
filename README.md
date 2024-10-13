@@ -35,23 +35,32 @@ Articles go here:
 ### DevOps Skills
 
 <a href="https://nginx.org/en/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Ansible" width="50" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50">
 </a>
 
 <a href="https://docs.ansible.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="50" height="50">
 </a>
 
-- [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](https://learn-bash.net/)
-- [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://www.docker.com/)
+<a href="https://learn-bash.net/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50" height="50">
+</a>
+
+<a href="hhttps://www.docker.com/">
+  <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="50" height="50">
+</a>
+
+
+
+
+
+- [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)]()
 - [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](https://kubernetes.io/)
 - [![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](https://helm.sh/)
 - [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
 - [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)](https://about.gitlab.com/)
 - [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](https://docs.gitlab.com/ee/ci/)
-- [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](https://www.json.org/json-en.html)
-- [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](https://yaml.org/)
 
 ### Front-End Skills
 
