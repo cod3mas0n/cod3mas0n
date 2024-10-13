@@ -34,8 +34,14 @@ Articles go here:
 
 ### DevOps Skills
 
-- Nginx
-- [![Ansible](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg)](https://docs.ansible.com/)
+<a href="https://nginx.org/en/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Ansible" width="50" height="50">
+</a>
+
+<a href="https://docs.ansible.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="50" height="50">
+</a>
+
 - [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](https://learn-bash.net/)
 - [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://www.docker.com/)
 - [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](https://kubernetes.io/)
