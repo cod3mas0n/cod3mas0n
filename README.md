@@ -46,7 +46,7 @@ Articles go here:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50" height="50">
 </a>
 
-<a href="hhttps://www.docker.com/">
+<a href="https://www.docker.com/">
   <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="50" height="50">
 </a>
 
