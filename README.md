@@ -25,12 +25,13 @@ Articles go here:
 
 ## Platform
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.redhat.com/en/topics/linux)
+<a href="https://www.redhat.com/en/topics/linux">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="GitLab" width="50" height="50">
+</a>
 
-- [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](https://fedoraproject.org/)
-- [![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](https://voidlinux.org/)
-
-## Core Competencies and Skills
+<a href="https://fedoraproject.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="GitLab" width="50" height="50">
+</a>
 
 ### DevOps Skills
 
@@ -50,44 +51,68 @@ Articles go here:
   <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="50" height="50">
 </a>
 
+<a href="https://kubernetes.io/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="50" height="50">
+</a>
 
+<a href="https://helm.sh/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="50" height="50">
+</a>
 
+<a href="https://argo-cd.readthedocs.io/en/stable/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="ArgoCD" width="50" height="50">
+</a>
 
+<a href="https://git-scm.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50">
+</a>
 
-- [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)]()
-- [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](https://kubernetes.io/)
-- [![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](https://helm.sh/)
-- [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
-- [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)](https://about.gitlab.com/)
-- [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](https://docs.gitlab.com/ee/ci/)
+<a href="https://github.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50">
+</a>
 
-### Front-End Skills
+<a href="https://about.gitlab.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50">
+</a>
 
-- [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)](https://html.com/html5/)
+<a href="https://grafana.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50">
+</a>
 
-### Back-End Skills
+<a href="https://prometheus.io/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="50" height="50">
+</a>
 
-- [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://python.org/)
-- [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](https://pypi.org/)
+<a href="https://www.rabbitmq.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="50" height="50">
+</a>
+
+<a href="https://www.python.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50">
+</a>
+
+<a href="https://www.cloudflare.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="50" height="50">
+</a>
 
 ### IDEs
 
-- [![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)](https://code.visualstudio.com/)
-- [![PyCharm](https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
+<a href="https://code.visualstudio.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50">
+</a>
 
 ### Editors
 
-- [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](https://www.vim.org/)
-- [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](https://notepad-plus-plus.org/)
+<a href="https://www.vim.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="50" height="50">
+</a>
 
 ### Databases
 
-- [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com/)
-- [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](https://redis.io/)
-- [![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)](https://www.postgresql.org/)
+<a href="https://redis.io/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50">
+</a>
 
-### Others
-
-- [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
-- [![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white)](https://duckduckgo.com/)
+<a href="https://www.postgresql.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg alt="PostgreSql" width="50" height="50">
+</a>
