@@ -18,11 +18,11 @@ interested in LSE (Linux System Engineer), SRE (Site Reliability Engineer).
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:a.mehraji75@gmail.com)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](https://mastodon.social/@homtaardy)
 
-## Articles
+### Articles
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@a.mehraji75)
 
-## Platform
+### Platform
 
 <a href="https://www.redhat.com/en/topics/linux">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="GitLab" width="50" height="50">
