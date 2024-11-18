@@ -20,7 +20,7 @@ interested in LSE (Linux System Engineer), SRE (Site Reliability Engineer).
 
 ## Articles
 
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@a.mehraji75)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@a.mehraji75)
 
 ## Platform
 
