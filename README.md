@@ -2,9 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=alimehr75)
 
-Working as a DevOps Engineer and interested in its Techs, Tools.
-
-Also interested in LSE (Linux System Engineer), SRE (Site Reliability Engineer).
+Working as a DevOps Engineer.
+interested in LSE (Linux System Engineer), SRE (Site Reliability Engineer).
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=alimehr75&include_all_commits=true&theme=merko) -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=alimehr75&show_icons=true&theme=dark"/> -->
@@ -19,7 +18,7 @@ Also interested in LSE (Linux System Engineer), SRE (Site Reliability Engineer).
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:a.mehraji75@gmail.com)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](https://mastodon.social/@homtaardy)
 
-Articles go here:
+## Articles
 
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@a.mehraji75)
 
