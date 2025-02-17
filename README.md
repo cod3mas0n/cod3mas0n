@@ -2,13 +2,15 @@
 
 ![](https://komarev.com/ghpvc/?username=alimehr75)
 
-Working as a DevOps Engineer. </br>
-interested in LSE (Linux System Engineer), SRE (Site Reliability Engineer).
+DevOps Engineer. </br>
+interested in LSE (Linux System Engineer), and SRE (Site Reliability Engineer).
+
+Expertise: CI/CD automation, Build/Release Management, Infrastructure as Code, Configuration Management, Application containerization, and Orchestrates with Kubernetes and Python.
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=alimehr75&include_all_commits=true&theme=merko) -->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=alimehr75&show_icons=true&theme=dark"/> -->
-  ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AliMehraji&theme=cobalt2&show_icons=true&card_width=495px)
-  ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AliMehraji&show_icons=true&theme=tokyonight) 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AliMehraji&theme=cobalt2&show_icons=true&card_width=495px) -->
+<!-- ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AliMehraji&show_icons=true&theme=tokyonight) -->
+<img src="https://github-readme-stats.vercel.app/api?username=AliMehraji&show_icons=true&theme=dark"/>
 
 </br>
 
@@ -16,7 +18,7 @@ interested in LSE (Linux System Engineer), SRE (Site Reliability Engineer).
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-mehraji)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:a.mehraji75@gmail.com)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](https://mastodon.social/@homtaardy)
+<!-- [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](https://mastodon.social/@homtaardy) -->
 
 ### Articles
 
