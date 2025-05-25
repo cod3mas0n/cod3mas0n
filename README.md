@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=alimehr75)
 
-DevOps Engineer. </br>
-interested in LSE (Linux System Engineer), and SRE (Site Reliability Engineer).
+DevOps/SRE Engineer. </br>
+interested in LSE (Linux System Engineer).
 
 Expertise: CI/CD automation, Build/Release Management, Infrastructure as Code, Configuration Management, Application containerization, and Orchestrates with Kubernetes and Python.
 
