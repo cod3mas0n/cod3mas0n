@@ -20,10 +20,6 @@ Expertise: CI/CD automation, Build/Release Management, Infrastructure as Code, C
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:a.mehraji75@gmail.com)
 <!-- [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](https://mastodon.social/@homtaardy) -->
 
-### Articles
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@a.mehraji75)
-
 ### Platform
 
 <a href="https://www.redhat.com/en/topics/linux">
