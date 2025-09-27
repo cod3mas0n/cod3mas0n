@@ -5,12 +5,12 @@
 DevOps/SRE Engineer. </br>
 interested in LSE (Linux System Engineer).
 
-Expertise: CI/CD automation, Build/Release Management, Infrastructure as Code, Configuration Management, Application containerization, and Orchestrates with Kubernetes and Python.
+Expertise: CI/CD automation, Build/Release Management, Infrastructure as Code, Configuration Management, Application containerization, and orchestration with Kubernetes and Python.
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=alimehr75&include_all_commits=true&theme=merko) -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AliMehraji&theme=cobalt2&show_icons=true&card_width=495px) -->
-<!-- ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AliMehraji&show_icons=true&theme=tokyonight) -->
-<img src="https://github-readme-stats.vercel.app/api?username=AliMehraji&show_icons=true&theme=dark"/>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cod3mas0n/&theme=cobalt2&show_icons=true&card_width=495px) -->
+<!-- ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cod3mas0n/&show_icons=true&theme=tokyonight) -->
+<img src="https://github-readme-stats.vercel.app/api?username=cod3mas0n/&show_icons=true&theme=dark"/>
 
 </br>
 
