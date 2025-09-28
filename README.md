@@ -10,7 +10,7 @@ Expertise: CI/CD automation, Build/Release Management, Infrastructure as Code, C
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=alimehr75&include_all_commits=true&theme=merko) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cod3mas0n/&theme=cobalt2&show_icons=true&card_width=495px) -->
 <!-- ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cod3mas0n/&show_icons=true&theme=tokyonight) -->
-<img src="https://github-readme-stats.vercel.app/api?username=cod3mas0n/&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=cod3mas0n&show_icons=true&theme=dark"/>
 
 </br>
 
