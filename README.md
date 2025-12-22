@@ -113,3 +113,7 @@ Expertise: CI/CD automation, Build/Release Management, Infrastructure as Code, C
 <a href="https://www.postgresql.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSql" width="50" height="50">
 </a>
+
+<a href="https://www.mysql.com/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
+</a>
