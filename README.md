@@ -22,94 +22,54 @@ Expertise: CI/CD automation, Build/Release Management, Infrastructure as Code, C
 
 ### Platform
 
-<a href="https://www.redhat.com/en/topics/linux">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="GitLab" width="50" height="50">
-</a>
+[![Linux logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)](https://www.redhat.com/en/topics/linux)
 
-<a href="https://fedoraproject.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="GitLab" width="50" height="50">
-</a>
+[![Fedora Linux logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg)](https://fedoraproject.org/)
 
 ### DevOps Skills
 
-<a href="https://nginx.org/en/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50">
-</a>
+[![Nginx logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg)](https://nginx.org/en/)
 
-<a href="https://docs.ansible.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="50" height="50">
-</a>
+[![Ansible logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg)](https://docs.ansible.com/)
 
-<a href="https://learn-bash.net/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50" height="50">
-</a>
+[![Bash logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)](https://learn-bash.net/)
 
-<a href="https://www.docker.com/">
-  <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="50" height="50">
-</a>
+[![Docker logo](https://cdn.simpleicons.org/docker)](https://www.docker.com/)
 
-<a href="https://kubernetes.io/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="50" height="50">
-</a>
+[![Kubernetes logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg)](https://kubernetes.io/)
 
-<a href="https://helm.sh/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="50" height="50">
-</a>
+[![Helm logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg)](https://helm.sh/)
 
-<a href="https://argo-cd.readthedocs.io/en/stable/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="ArgoCD" width="50" height="50">
-</a>
+[![Argo CD logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg)](https://argo-cd.readthedocs.io/en/stable/)
 
-<a href="https://git-scm.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50">
-</a>
+[![Git logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)](https://git-scm.com/)
 
-<a href="https://github.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50">
-</a>
+[![GitHub logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/)
 
-<a href="https://about.gitlab.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50">
-</a>
+[![GitLab logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg)](https://about.gitlab.com/)
 
-<a href="https://grafana.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50">
-</a>
+[![Grafana logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg)](https://grafana.com/)
 
-<a href="https://prometheus.io/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="50" height="50">
-</a>
+[![Prometheus logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg)](https://prometheus.io/)
 
-<a href="https://www.rabbitmq.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="50" height="50">
-</a>
+[![RabbitMQ logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg)](https://www.rabbitmq.com/)
 
-<a href="https://www.python.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50">
-</a>
+[![Python logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](https://www.python.org/)
 
-<a href="https://www.cloudflare.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="50" height="50">
-</a>
+[![Cloudflare logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg)](https://www.cloudflare.com/)
 
 ### IDEs
 
-<a href="https://code.visualstudio.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50">
-</a>
+[![Cloudflare logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg)](https://www.cloudflare.com/)
+
+[![Visual Studio Code logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)](https://code.visualstudio.com/)
 
 ### Editors
 
-<a href="https://www.vim.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="50" height="50">
-</a>
+[![Vim logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg)](https://www.vim.org/)
 
 ### Databases
 
-<a href="https://redis.io/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50">
-</a>
+[![Redis logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg)](https://redis.io/)
 
-<a href="https://www.postgresql.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSql" width="50" height="50">
-</a>
+[![PostgreSQL logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)](https://www.postgresql.org/)
